@@ -20,7 +20,6 @@ Ejecutar los siguientes pasos: https://docs.github.com/en/authentication/connect
 - git branch -M main
 - git push -u origin main
 
-Command line instructions
 You can also upload existing files from your computer using the instructions below.
 
 Git global setup
