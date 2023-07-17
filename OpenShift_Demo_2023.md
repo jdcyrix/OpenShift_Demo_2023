@@ -4,9 +4,8 @@ Tenemos que generar una llave para la conexión remota desde nuestra máquina al
 <li>
 Ejecutar los siguientes pasos: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 </li>
-<li>
-Los comandos usuales de Git son:
-</li>
+
+## Los comandos usuales de Git son:
 …or create a new repository on the command line
 - echo "# ansible_advanced_JDG" >> README.md
 - git init
@@ -52,7 +51,7 @@ Push an existing Git repository
 - git push -u origin --all
 - git push -u origin --tags
 
-</ul>
+
 
 
 # Para aprovisionar el ambiente
