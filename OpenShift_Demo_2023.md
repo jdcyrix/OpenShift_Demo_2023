@@ -1,10 +1,8 @@
 # Para conectar un folder local a un repositorio en GitHub
+Tenemos que generar una llave para la conexión desde nuestra máquina al repositorio Git
 <ul>
-<li>Abrir el terminal</li>
-
-- Ejecutar el siguiente comando: <strong>ssh-keygen -t ed25519-sk -C "YOUR_EMAIL"</strong>
-- Buscar la llave en el repositorio local: /Users/juangarcia/.ssh/id_ed25519.pub
-- Pegar la salida en Github para generar la llave: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+<li>Ejecutar los siguientes pasos: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent</li>
+</ul>
 
 
 # Para aprovisionar el ambiente
